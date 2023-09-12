@@ -1252,6 +1252,7 @@ const Svgs = {
   BLUE_LOGO_PATH: 'M16.5 3H2v18h15c3.038 0 5.5-2.46 5.5-5.5 0-1.4-.524-2.68-1.385-3.65-.08-.09-.089-.22-.023-.32.574-.87.908-1.91.908-3.03C22 5.46 19.538 3 16.5 3zm-.796 5.99c.457-.05.892-.17 1.296-.35-.302.45-.684.84-1.125 1.15.004.1.006.19.006.29 0 2.94-2.269 6.32-6.421 6.32-1.274 0-2.46-.37-3.459-1 .177.02.357.03.539.03 1.057 0 2.03-.35 2.803-.95-.988-.02-1.821-.66-2.109-1.54.138.03.28.04.425.04.206 0 .405-.03.595-.08-1.033-.2-1.811-1.1-1.811-2.18v-.03c.305.17.652.27 1.023.28-.606-.4-1.004-1.08-1.004-1.85 0-.4.111-.78.305-1.11 1.113 1.34 2.775 2.22 4.652 2.32-.038-.17-.058-.33-.058-.51 0-1.23 1.01-2.22 2.256-2.22.649 0 1.235.27 1.647.7.514-.1.997-.28 1.433-.54-.168.52-.526.96-.992 1.23z',
   HOME: '<g><path d="M12 9c-2.209 0-4 1.791-4 4s1.791 4 4 4 4-1.791 4-4-1.791-4-4-4zm0 6c-1.105 0-2-.895-2-2s.895-2 2-2 2 .895 2 2-.895 2-2 2zm0-13.304L.622 8.807l1.06 1.696L3 9.679V19.5C3 20.881 4.119 22 5.5 22h13c1.381 0 2.5-1.119 2.5-2.5V9.679l1.318.824 1.06-1.696L12 1.696zM19 19.5c0 .276-.224.5-.5.5h-13c-.276 0-.5-.224-.5-.5V8.429l7-4.375 7 4.375V19.5z"></path></g>',
   MUTE: '<g><path d="M18 6.59V1.2L8.71 7H5.5C4.12 7 3 8.12 3 9.5v5C3 15.88 4.12 17 5.5 17h2.09l-2.3 2.29 1.42 1.42 15.5-15.5-1.42-1.42L18 6.59zm-8 8V8.55l6-3.75v3.79l-6 6zM5 9.5c0-.28.22-.5.5-.5H8v6H5.5c-.28 0-.5-.22-.5-.5v-5zm6.5 9.24l1.45-1.45L16 19.2V14l2 .02v8.78l-6.5-4.06z"></path></g>',
+  QUOTE: '<g><path d="M14.23 2.854c.98-.977 2.56-.977 3.54 0l3.38 3.378c.97.977.97 2.559 0 3.536L9.91 21H3v-6.914L14.23 2.854zm2.12 1.414c-.19-.195-.51-.195-.7 0L5 14.914V19h4.09L19.73 8.354c.2-.196.2-.512 0-.708l-3.38-3.378zM14.75 19l-2 2H21v-2h-6.25z"></path></g>',
   RETWEET: '<g><path d="M4.5 3.88l4.432 4.14-1.364 1.46L5.5 7.55V16c0 1.1.896 2 2 2H13v2H7.5c-2.209 0-4-1.79-4-4V7.55L1.432 9.48.068 8.02 4.5 3.88zM16.5 6H11V4h5.5c2.209 0 4 1.79 4 4v8.45l2.068-1.93 1.364 1.46-4.432 4.14-4.432-4.14 1.364-1.46 2.068 1.93V8c0-1.1-.896-2-2-2z"></path></g>',
   RETWEETS_OFF: '<g><path d="M3.707 21.707l18-18-1.414-1.414-2.088 2.088C17.688 4.137 17.11 4 16.5 4H11v2h5.5c.028 0 .056 0 .084.002l-10.88 10.88c-.131-.266-.204-.565-.204-.882V7.551l2.068 1.93 1.365-1.462L4.5 3.882.068 8.019l1.365 1.462 2.068-1.93V16c0 .871.278 1.677.751 2.334l-1.959 1.959 1.414 1.414zM18.5 9h2v7.449l2.068-1.93 1.365 1.462-4.433 4.137-4.432-4.137 1.365-1.462 2.067 1.93V9zm-8.964 9l-2 2H13v-2H9.536z"></path></g>',
   TWITTER_LOGO_PATH: 'M23.643 4.937c-.835.37-1.732.62-2.675.733.962-.576 1.7-1.49 2.048-2.578-.9.534-1.897.922-2.958 1.13-.85-.904-2.06-1.47-3.4-1.47-2.572 0-4.658 2.086-4.658 4.66 0 .364.042.718.12 1.06-3.873-.195-7.304-2.05-9.602-4.868-.4.69-.63 1.49-.63 2.342 0 1.616.823 3.043 2.072 3.878-.764-.025-1.482-.234-2.11-.583v.06c0 2.257 1.605 4.14 3.737 4.568-.392.106-.803.162-1.227.162-.3 0-.593-.028-.877-.082.593 1.85 2.313 3.198 4.352 3.234-1.595 1.25-3.604 1.995-5.786 1.995-.376 0-.747-.022-1.112-.065 2.062 1.323 4.51 2.093 7.14 2.093 8.57 0 13.255-7.098 13.255-13.254 0-.2-.005-.402-.014-.602.91-.658 1.7-1.477 2.323-2.41z',
@@ -1289,7 +1290,7 @@ const URL_PROFILE_RE = /^\/([a-zA-Z\d_]{1,20})(?:\/(?:with_replies|superfollows|
 // Matches URLs which show a user's Followers you know / Followers / Following tab
 const URL_PROFILE_FOLLOWS_RE = /^\/[a-zA-Z\d_]{1,20}\/follow(?:ing|ers|ers_you_follow)\/?$/
 const URL_TWEET_RE = /^\/([a-zA-Z\d_]{1,20})\/status\/(\d+)\/?$/
-const URL_TWEET_LIKES_RETWEETS_RE = /^\/[a-zA-Z\d_]{1,20}\/status\/\d+\/(likes|retweets|reposts)\/?$/
+const URL_TWEET_ENGAGEMENT_RE = /^\/[a-zA-Z\d_]{1,20}\/status\/\d+\/(quotes|retweets|reposts|likes)\/?$/
 
 // The Twitter Media Assist exension adds a new button at the end of the action
 // bar (#346)
@@ -1333,9 +1334,6 @@ let isDesktopMediaModalOpen = false
 
 /** Set to `true` when the compose tweet modal is open on desktop. */
 let isDesktopComposeTweetModalOpen = false
-
-/** Set to `true` when a user list modal is open on desktop. */
-let isDesktopUserListModalOpen = false
 
 /**
  * Cache for the last page title which was used for the main timeline.
@@ -1449,7 +1447,8 @@ function isOnProfilePage() {
 }
 
 function isOnQuoteTweetsPage() {
-  return currentPath.endsWith('/retweets/with_comments')
+  let match = currentPath.match(URL_TWEET_ENGAGEMENT_RE)
+  return match?.[1] == 'quotes'
 }
 
 function isOnSearchPage() {
@@ -1633,6 +1632,27 @@ function getElement(selector, {
   })
 }
 
+function getStateEntities() {
+  let reactRootContainer = ($reactRoot?.wrappedJSObject ? $reactRoot.wrappedJSObject : $reactRoot)?._reactRootContainer
+  if (reactRootContainer) {
+    let entities = reactRootContainer._internalRoot?.current?.memoizedState?.element?.props?.children?.props?.store?.getState()?.entities
+    if (entities) {
+      return entities
+    } else {
+      warn('state entities not found')
+    }
+  } else {
+    warn('React root container not found')
+  }
+}
+
+/**
+ * Gets cached tweet info from React state.
+ */
+function getTweetInfo(id) {
+  return getStateEntities()?.tweets?.entities[id]
+}
+
 /**
  * Gets cached user info from React state.
  * @returns {import("./types").UserInfoObject}
@@ -1640,23 +1660,18 @@ function getElement(selector, {
 function getUserInfo() {
   /** @type {import("./types").UserInfoObject} */
   let userInfo = {}
-  let reactRootContainer = ($reactRoot?.wrappedJSObject ? $reactRoot.wrappedJSObject : $reactRoot)?._reactRootContainer
-  if (reactRootContainer) {
-    let userEntities = reactRootContainer?._internalRoot?.current?.memoizedState?.element?.props?.children?.props?.store?.getState()?.entities?.users?.entities
-    if (userEntities) {
-      for (let user of Object.values(userEntities)) {
-        userInfo[user.screen_name] = {
-          following: user.following,
-          followedBy: user.followed_by,
-          followersCount: user.followers_count,
-          shyBlue: false,
-        }
+  let userEntities = getStateEntities()?.users?.entities
+  if (userEntities) {
+    for (let user of Object.values(userEntities)) {
+      userInfo[user.screen_name] = {
+        following: user.following,
+        followedBy: user.followed_by,
+        followersCount: user.followers_count,
+        shyBlue: false,
       }
-    } else {
-      warn('user entities not found')
     }
   } else {
-    warn('React root container not found')
+    warn('user entities not found')
   }
   return userInfo
 }
@@ -3467,22 +3482,6 @@ function handlePopup($popup) {
     }
   }
 
-  if (desktop && !isDesktopUserListModalOpen && URL_TWEET_LIKES_RETWEETS_RE.test(location.pathname)) {
-    let modalType = URL_TWEET_LIKES_RETWEETS_RE.exec(location.pathname)[1]
-    log(`${modalType} modal opened`)
-    isDesktopUserListModalOpen = true
-    tweakUserModalTimelineHeading(location.pathname)
-    observeUserListTimeline({context: $popup, initialPath: location.pathname, observers: modalObservers})
-    return {
-      tookAction: true,
-      onPopupClosed() {
-        log(`${modalType} modal closed`)
-        isDesktopUserListModalOpen = false
-        disconnectAllModalObservers()
-      }
-    }
-  }
-
   if (config.replaceLogo) {
     let $retweetDropdownItem = $popup.querySelector('div:is([data-testid="retweetConfirm"], [data-testid="repostConfirm"])')
     if ($retweetDropdownItem) {
@@ -4256,8 +4255,8 @@ function processCurrentPage() {
   else if (isOnSearchPage()) {
     tweakSearchPage()
   }
-  else if (isOnQuoteTweetsPage()) {
-    tweakQuoteTweetsPage()
+  else if (URL_TWEET_ENGAGEMENT_RE.test(currentPath)) {
+    tweakTweetEngagementPage()
   }
   else if (isOnListPage()) {
     tweakListPage()
@@ -4285,9 +4284,6 @@ function processCurrentPage() {
     }
     else if (URL_MEDIAVIEWER_RE.test(currentPath)) {
       tweakMobileMediaViewerPage()
-    }
-    else if (URL_TWEET_LIKES_RETWEETS_RE.test(currentPath)) {
-      tweakMobileUserListPage()
     }
   }
 }
@@ -4800,7 +4796,6 @@ async function tweakTimelineTabs($timelineTabs) {
 }
 
 async function tweakMobileUserListPage() {
-  tweakUserModalTimelineHeading(currentPath)
   observeUserListTimeline({initialPath: currentPath, observers: pageObservers})
 }
 
@@ -4870,21 +4865,6 @@ async function tweakProfilePage() {
   }
 }
 
-async function tweakQuoteTweetsPage() {
-  if (config.twitterBlueChecks != 'ignore') {
-    observeTimeline(currentPage)
-  }
-  if (config.replaceLogo) {
-    let $headingText = await getElement(`${mobile ? Selectors.MOBILE_TIMELINE_HEADER : Selectors.PRIMARY_COLUMN} h2 span`, {
-      name: 'quote tweets heading',
-      stopIf: pageIsNot(currentPage)
-    })
-    if ($headingText) {
-      $headingText.textContent = getString('QUOTE_TWEETS')
-    }
-  }
-}
-
 /**
  * @param {Element} $dropdownItem
  * @param {string} dropdownItemSelector
@@ -4910,19 +4890,6 @@ async function tweakRetweetDropdown($dropdownItem, dropdownItemSelector, localeK
   if ($quoteTweetText) $quoteTweetText.textContent = getString('QUOTE_TWEET')
 }
 
-async function tweakUserModalTimelineHeading(initialPath) {
-  let listType = initialPath.match(URL_TWEET_LIKES_RETWEETS_RE)?.[1]
-  if (!config.replaceLogo || !listType || listType == 'likes') return
-
-  let $headingText = await getElement(`h2#modal-header span`, {
-    name: 'Retweeted by heading',
-    stopIf: not(() => initialPath == location.pathname),
-  })
-  if (!$headingText) return
-
-  $headingText.textContent = getString('RETWEETED_BY')
-}
-
 function tweakSearchPage() {
   let $searchTabs = document.querySelector(`${mobile ? Selectors.MOBILE_TIMELINE_HEADER : Selectors.PRIMARY_COLUMN} nav`)
   if ($searchTabs != null) {
@@ -4942,6 +4909,11 @@ function tweakSearchPage() {
     isTabbed: true,
     tabbedTimelineContainerSelector: 'div[data-testid="primaryColumn"] > div > div:last-child',
   })
+}
+
+function tweakTweetEngagementPage() {
+  // Replace Quotes and Reposts tab names
+  // Observe timelines to replace Blue checks
 }
 //#endregion
 
